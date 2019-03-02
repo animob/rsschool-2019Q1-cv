@@ -1,7 +1,7 @@
 # Anna, Hryshchankova
 
-Phone: +375 (33) 601-84-16 / mts, telegram, viber  
-email: anngwork@gmail.com
+**Phone:** +375 (33) 601-84-16 / mts, telegram, viber  
+**email:** anngwork@gmail.com
 
 ## Summary
 
