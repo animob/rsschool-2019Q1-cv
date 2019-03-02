@@ -17,7 +17,7 @@ HTML5, CSS3, Less, Sass, Flex, Grid Layout, JavaScript (jQuery), Nunjucks, Gulp,
 * shop with a basket [mirsveta.by](https://mirsveta.by/);
 * project with pixelperfect and retina-made [bdtech.by](https://bdtech.by/).
 
-@animob (GitHub).
+[@animob](https://github.com/animob) (GitHub).
 
 I have experience of working as an html-developer for 1,9 years. I have done more than 20 commercial projects during this time. It should also be said that I made technical edits to websites.
 
