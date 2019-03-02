@@ -21,7 +21,7 @@ HTML5, CSS3, Less, Sass, Flex, Grid Layout, JavaScript (jQuery), Nunjucks, Gulp,
 
 I have experience of working as an html-developer for 1,9 years. I have done more than 20 commercial projects during this time. It should also be said that I made technical edits to websites.
 
-## Education
+### Education
 
 BSTU (2007-2012).
 
