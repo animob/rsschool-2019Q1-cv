@@ -1,0 +1,88 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  position: relative;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+.container {
+  padding: 30px;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Markazi Text', serif;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 34px;
+  margin-top: 20px;
+}
+
+h3 {
+  font-size: 28px;
+  margin-top: 20px;
+}
+
+ul {
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+.right {
+  width: 25%;
+  float: right;
+  margin-top: -35px;
+}
+
+.right img {
+  width: 100%;
+}
+
+a {
+  color: #717171;
+  text-decoration: none;
+}
+
+a:hover,
+a:active {
+  text-decoration: underline;
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+  }
+}
+@media screen and (max-width: 767px) {
+  .container {
+    width: 100%;
+    padding: 15px;
+    margin: 0 auto;
+  }
+  .right {
+    width: 100%;
+    margin-top: 0;
+    float: none;
+    max-width: 300px;
+    margin-bottom: 10px;
+  }
+}
