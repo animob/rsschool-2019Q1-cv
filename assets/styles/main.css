@@ -55,6 +55,16 @@ p {
   width: 100%;
 }
 
+a {
+  color: #717171;
+  text-decoration: none;
+}
+
+a:hover,
+a:active {
+  text-decoration: underline;
+}
+
 @media screen and (min-width: 768px) {
   .container {
     width: 100%;
