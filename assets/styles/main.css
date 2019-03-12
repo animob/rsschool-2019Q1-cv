@@ -13,7 +13,7 @@ body {
 }
 
 .container {
-
+  padding: 30px;
 }
 
 h1,
@@ -22,12 +22,33 @@ h3 {
   font-family: 'Markazi Text', serif;
 }
 
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 34px;
+  margin-top: 20px;
+}
+
+h3 {
+  font-size: 28px;
+  margin-top: 20px;
+}
+
+ul {
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
 @media screen and (min-width: 1201px) {
   .container {
     width: 100%;
     max-width: 1024px;
-    padding-right: 30px;
-    padding-left: 30px;
     margin: 0 auto;
   }
 }
@@ -35,16 +56,13 @@ h3 {
   .container {
     width: 100%;
     max-width: 1024px;
-    padding-right: 30px;
-    padding-left: 30px;
     margin: 0 auto;
   }
 }
 @media screen and (max-width: 767px) {
   .container {
     width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
+    padding: 15px;
     margin: 0 auto;
   }
 }
